@@ -41,6 +41,9 @@ Sensor data trend visualization.
 
 **Expected Output**
 -**SQLite Database:** Stores 100 rows of simulated sensor data.
+
 -**Console Output**: Displays fetched data and summary statistics.
+
 **-Plots:** Line plots for temperature, pressure, and vibration trends.
+
 -**PDF Report:** Machine_Data_Analysis_Report.pdf with analysis and visualization.
