@@ -47,3 +47,7 @@ Sensor data trend visualization.
 -**Plots**: Line plots for temperature, pressure, and vibration trends.
 
 -**PDF Report:** Machine_Data_Analysis_Report.pdf with analysis and visualization.
+
+## ⚠️ Usage Notice
+This project is for educational and portfolio purposes only.  
+Please do not copy or reuse this code without proper attribution.
